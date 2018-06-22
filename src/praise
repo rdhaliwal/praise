@@ -25,6 +25,8 @@ declare -a PRAISE_ADJECTIVES=(
   'cunning'
   'tricky'
   'sassy'
+  'smooth coated'
+  'majestic'
 )
 
 declare -a PRAISE_NOUNS=(
@@ -40,6 +42,8 @@ declare -a PRAISE_NOUNS=(
   'tree shark'
   'space unicorn'
   'mannequin'
+  'sea otter'
+  'flamingo'
 )
 
 function _praise {
